@@ -1,8 +1,8 @@
-# DudeFish
+# NeuralDudeFish
 Neural Network Chess Engine
 
 #### Background
-DudeFish is a chess engine using minimax tree search with a neural network evaluator. The  training is done by providing board positions, along with the end result of the game (win, lose, draw) to the neural network. 
+NeuralDudeFish is a chess engine using minimax tree search with a neural network evaluator. The  training is done by providing board positions, along with the end result of the game (win, lose, draw) to the neural network. 
 
 #### Performance
 Some sample games can be found [here](https://lichess.org/study/QFtj4Mf3 "here").
